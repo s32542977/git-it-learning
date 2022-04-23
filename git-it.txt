@@ -1,2 +1,3 @@
-嗨 這是個Git-it學習測試
+嗨 這是Git-it學習測試
+實際操作各個命令語法
 Git-it學習網址：https://github.com/jlord/git-it/blob/master/README-zhtw.md
